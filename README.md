@@ -2,7 +2,7 @@
 
 [![Header](./readme_header.png "Header")](dujm.github.io)
 
-# Hello, folks! <img src="wave.gif" width="25px">
+## Hello, folks! <img src="wave.gif" width="25px">
 
 I'm DJ. I'm a healthcare data scientist.
 
@@ -16,6 +16,8 @@ I'm DJ. I'm a healthcare data scientist.
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCloud-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
+
+<br>
 
 ## &#x1f4c8; GitHub Stats
 
