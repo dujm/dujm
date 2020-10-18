@@ -4,7 +4,9 @@
 
 # Hello, folks! <img src="wave.gif" width="25px">
 
-I'm DJ. I'm a data scientist and genomics researcher.
+I'm DJ. I'm a healthcare data scientist.
+
+<br>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
