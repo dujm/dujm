@@ -26,17 +26,6 @@ I'm DJ. I'm a healthcare data scientist.
 
 <br>
 
-## 🌱 Just Saying
-
-<br>
-
-<p align="left">
-
-  <img src="https://github-readme-quotes.herokuapp.com/quote?&theme=dark" alt="my-personal-project"/>
-  
-</p>
-
-<br>
 
 ## &#x1f4c8; GitHub Stats
 
