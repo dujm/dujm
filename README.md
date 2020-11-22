@@ -31,9 +31,9 @@ I'm DJ. I'm a healthcare data scientist.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/dujm/dujm">
-  <img align="left" height="200px" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dujm&layout=compact&hide=objective-c,Makefile,java,CSS&langs_count=10, makefile&title_color=ffffff&text_color=c9cacc&icon_color=3AAFA9&bg_color=1d1f21" />
+  <img align="left" height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dujm&layout=compact&hide=objective-c,Makefile,java,CSS&langs_count=8, makefile&title_color=ffffff&text_color=c9cacc&icon_color=3AAFA9&bg_color=1d1f21" />
   
- <img align="left" height="200px" width="450" src="https://github-readme-stats.vercel.app/api?username=dujm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=3AAFA9&icon_color=3AAFA9&bg_color=1d1f21" alt="DJ's GitHub Stats" />
+ <img align="left" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=dujm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=3AAFA9&icon_color=3AAFA9&bg_color=1d1f21" alt="DJ's GitHub Stats" />
 </a>
 
 
