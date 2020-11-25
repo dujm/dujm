@@ -1,6 +1,3 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
-
 <p align="center">
   <a title="Portfolio" href="./readme_header.png">
     <img src="./readme_header.png" width="700" height=400" />
@@ -10,7 +7,7 @@
 
 <br>
 
-## Hello, folks! <img src="wave.gif" width="25px">
+## Hello, folks <img src="wave.gif" width="25px">
 
 I'm DJ. I'm a healthcare data scientist.
 
@@ -39,13 +36,11 @@ I'm DJ. I'm a healthcare data scientist.
 
 
 <!-- Resources -->
-
+<!-- More info, tips and tricks for making GitHub Profile README can be found at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 <!-- Learned from: https://github.com/MartinHeinz/MartinHeinz/ -->
-<!-- github-readme-quotes: https://github.com/shravan20/github-readme-quotes -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
