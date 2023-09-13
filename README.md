@@ -25,16 +25,17 @@ I'm DJ. I'm a healthcare data scientist.
 <br>
 
 
-## &#x1f4c8; GitHub Stats
+
+
+
+<!-- Resources -->
+<!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/dujm/dujm">
     
  <img align="left" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=dujm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=3AAFA9&icon_color=3AAFA9&bg_color=1d1f21" alt="DJ's GitHub Stats" />
 </a>
 
-
-
-<!-- Resources -->
 <!-- More info, tips and tricks for making GitHub Profile README can be found at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 <!-- Learned from: https://github.com/MartinHeinz/MartinHeinz/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
