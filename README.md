@@ -9,7 +9,7 @@
 
 ## Hello, folks <img src="wave.gif" width="25px">
 
-I'm DJ. I'm a healthcare data scientist.
+I'm a healthcare data scientist.
 
 <br>
 
