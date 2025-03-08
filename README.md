@@ -7,7 +7,7 @@
 
 <br>
 
-## Hello, folks <img src="wave.gif" width="25px">
+## Hello, folks!
 
 I'm a data scientist.
 
